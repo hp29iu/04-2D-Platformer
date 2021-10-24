@@ -15,8 +15,11 @@ Do you think you can pass through Dangerous Adventure? Zombie and Robot are wait
 
 ## References
 Asset provided by [kenney.nl] (https://kenney.nl/assets/rolling-ball-assets), (https://kenney.nl/assets/toon-characters-1), (https://kenney.nl/assets/platformer-pack-industrial)
+
 Audio provided by [patrickdearteaga] (https://patrickdearteaga.com/epic-orchestral-fantasy-medieval-music/)
+
 Shaders provided by [Godot Shaders] (https://godotshaders.com/shader/fireworks/), (https://godotshaders.com/shader/stars-shader/)
+
 Parallax Background Provided by [OpenGameArt.ORG] (https://opengameart.org/content/3-parallax-backgrounds)
 
 ## Future Development
