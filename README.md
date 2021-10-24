@@ -1,14 +1,23 @@
 # Godot-Template
-For use in MSCH-C220
+<Project 4 - 2D Platformer Game> Dangerous Adventure, 23 October 2021
 
-A Godot Project Template, for use in future projects.
+Do you think you can pass through Dangerous Adventure? Zombie and Robot are waiting for you to fight. Crush them, earn score, and escape. Only the chosen one could succeed.
 
 ## Implementation
-Built using Godot 3.3.3
-Includes WASD mappings (up, left, down, right) and escape to quit.
+- Add multiple levels
+- Add Music
+- Add Font
+- Add Shaders
+- Add Parallax Background
+- Add doors
+- Add Start-Game Menu and End-Game Menu
+- Able to kill enemies and get socres by jumping on their heads
 
 ## References
-None
+Asset provided by [kenney.nl] (https://kenney.nl/assets/rolling-ball-assets), (https://kenney.nl/assets/toon-characters-1), (https://kenney.nl/assets/platformer-pack-industrial)
+Audio provided by [patrickdearteaga] (https://patrickdearteaga.com/epic-orchestral-fantasy-medieval-music/)
+Shaders provided by [Godot Shaders] (https://godotshaders.com/shader/fireworks/), (https://godotshaders.com/shader/stars-shader/)
+Parallax Background Provided by [OpenGameArt.ORG] (https://opengameart.org/content/3-parallax-backgrounds)
 
 ## Future Development
 None
